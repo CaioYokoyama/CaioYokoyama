@@ -1,11 +1,11 @@
 ## Olá, meu nome é Caio!👋
 
 
-- 🖥️ Atualmente estou à procura de um emprego!
-- 🌱 Atualmente meu principal foco é ser um desenvolvedor FullStack
-- 📶 Atualmente estou fazendo faculdade de ciências da computação
-- 🤔 Também faço um curso para desenvolvedor FullStack
-- 📫 Entre em contato comigo: caio.analfio1@gmail.com
+- 🖥️ Atualmente estou à procura de meu primeiro emprego! / Currently looking for my first job!
+- 🌱 Atualmente meu principal foco é ser um desenvolvedor FullStack / Currently my main focus is to be a FullStack Developer 
+- 📶 Estou cursando ciências da computação e estou no terceiro semestre! / I'm studying computer science and I'm in the third semester!
+- 🤔 Também faço um curso para desenvolvedor FullStack / I also make a course of FullStack Developer 
+- 📫 Entre em contato comigo: caio.analfio1@gmail.com / Contact me in: caio.analfio@gmail.com
 
 <div align="center">
   <a href="https://github.com/CaioYokoyama">
